@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Mohammed\AndroidStudioProjects\NetworkingAndroidHttpClientXML\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea05a28c4f83528b50f66a70a31a8a96fd7fe483">
+        <dex dex="C:\Users\Mohammed\AndroidStudioProjects\NetworkingAndroidHttpClientXML\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_9e699d6e712638adf6ac60c1c0f898546040a5f5\classes.dex" />
+    </item>
+
+</items>
